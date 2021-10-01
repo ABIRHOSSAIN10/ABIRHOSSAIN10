@@ -28,7 +28,3 @@ Here are some ideas to get you started:
 
 <h3><b><i> Profile Statistics :</i></b></h3>
 <a href="https://github.com/ABIRHOSSAIN10"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ABIRHOSSAIN10&color=blueviolet&style=flat-square"></a>
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ABIRHOSSAIN10&show_icons=true&include_all_commits=true&theme=green-dark&cache_seconds=3200) <br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ABIRHOSSAIN10&layout=compact&theme=blue-dark" /> <br>
