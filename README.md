@@ -30,13 +30,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/ABIRHOSSAIN10"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ABIRHOSSAIN10&color=blueviolet&style=flat-square"></a>
 
 
-
-
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABIRHOSSAIN10&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ABIRHOSSAIN10&layout=compact&theme=chartreuse-dark" />
