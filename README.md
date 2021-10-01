@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter-alamin&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hunter-alamin&layout=compact&theme=chartreuse-dark" />
-<p align="center">
-<a href="https://github.com/Hunter-alamin/Universe"><img title="Universe" src="https://github-readme-stats.vercel.app/api/pin/?username=Hunter-alamin&repo=Universe&theme=vision-friendly-dark">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABIRHOSSAIN10&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ABIRHOSSAIN10&layout=compact&theme=chartreuse-dark" />
