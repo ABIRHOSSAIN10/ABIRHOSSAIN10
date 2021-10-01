@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<h3><b><i> Github Statistics :</i></b></h3>
 <a href="https://github.com/ABIRHOSSAIN10"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ABIRHOSSAIN10&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<h3><b><i> Profile Statistics :</i></b></h3>
 <a href="https://github.com/ABIRHOSSAIN10"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ABIRHOSSAIN10&color=blueviolet&style=flat-square"></a>
