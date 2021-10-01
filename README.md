@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- Github README -->
 <p align="center"><a href="https://github.com/ABIRHOSSAIN10">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ABIRHOSSAIN10&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ABIRHOSSAIN10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/ABIRHOSSAIN10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIRHOSSAIN10&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/ABIRHOSSAIN10"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/ABIRHOSSAIN10"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ABIRHOSSAIN10&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/ABIRHOSSAIN10"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/ABIRHOSSAIN10"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ABIRHOSSAIN10&color=blueviolet&style=flat-square"></a>
