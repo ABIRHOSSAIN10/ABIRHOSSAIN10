@@ -2,18 +2,6 @@
 
 <!--
 **ABIRHOSSAIN10/ABIRHOSSAIN10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Github README -->
 <p align="center"><a href="https://github.com/ABIRHOSSAIN10">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABIRHOSSAIN10&show_icons=true&include_all_commits=true&theme=gotham&cache_seconds=3200&hide_border=true" /></a>
@@ -40,6 +28,6 @@ Here are some ideas to get you started:
 <h3><b><i> Github Repositorys :</i></b></h3>
 <br>
 
-<a href="https://github.com/ABIRHOSSAIN10/sms-boombing"><img title="Sms boombing" src="https://github-readme-stats.vercel.app/api/pin/?username=ABIRHOSSAIN10&repo=sms-boombing&theme=tokyonight"></a>
+<a href="https://github.com/ABIRHOSSAIN10/sms-boombing"><img title="Sms-boombing" src="https://github-readme-stats.vercel.app/api/pin/?username=ABIRHOSSAIN10&repo=sms-boombing&theme=tokyonight"></a>
 </p>
 
